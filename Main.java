@@ -2,6 +2,7 @@
 public class Main {
     public static void main(String[] args) {
         //Stringler bir adet classtan türer yani stringler aslınde bir classtır
+        //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
         String a = "hllbr";
         String b = new String("@prince");
         System.out.println(b);
